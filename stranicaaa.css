@@ -214,6 +214,7 @@ box-sizing:border-box;
  }
 
  .content-section{
+    color:white;
      background:#0d0e0f;
      padding: 80px 0;
      text-align:center;
@@ -517,4 +518,5 @@ animation: 20s slider infinite;
 .sve{
     overflow-x: hidden;
 }
+
 
